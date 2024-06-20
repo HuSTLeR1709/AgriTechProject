@@ -1,0 +1,14 @@
+.bgimg{
+    background-image: url("../assests/bgImages/bk.img.png");
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.transn{
+    position:relative;
+    top:14px;
+    right:580px;
+}
+input.email:active + label.transn
+{
+    top:0px;
+}

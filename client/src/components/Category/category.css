@@ -1,0 +1,6 @@
+.cardimg{
+    background-image: url('../../assests/bgImages/__before.png');
+    background-repeat:no-repeat;
+    background-size: 120% 100%;
+    background-position: 95% 0%;
+}
